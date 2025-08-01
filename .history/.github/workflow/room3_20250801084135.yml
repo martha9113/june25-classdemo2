@@ -1,0 +1,4 @@
+name: group workflow
+on: [push]
+jobs:
+  print_grou

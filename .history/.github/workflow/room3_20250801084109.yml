@@ -1,0 +1,3 @@
+name: group workflow
+on: [push]
+jobs
